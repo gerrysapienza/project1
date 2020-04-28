@@ -1,0 +1,52 @@
+div.jumboadmissions{
+    background-image: url("camo.jpg");
+    background-size: cover;
+    color: white;
+}
+
+div.jumbohome {
+    background-image: url(kellogg.jpg);
+    background-size: cover;
+    color: white;
+}
+
+div.jumbojobs {
+    background-image: url("chicago.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.circular--square {
+    border-radius: 50%;
+}
+
+img{ 
+    width: 80%; 
+    height: 80%; 
+}
+
+div.text-center {
+    text-align: center !important 
+}
+
+hr.my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+footer {
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+p.money {
+    font-family: 'Indie Flower', cursive;
+}
+
+p.jobs {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Chonburi', cursive;
+}
